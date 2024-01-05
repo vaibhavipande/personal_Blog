@@ -1,0 +1,3 @@
+
+// for aos
+AOS.init()
